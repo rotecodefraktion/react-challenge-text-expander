@@ -1,4 +1,3 @@
-import { collapseTextChangeRangesAcrossMultipleVersions } from "typescript";
 import "./index.css";
 
 import { useState, React } from "react";
